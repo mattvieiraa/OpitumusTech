@@ -36,4 +36,4 @@ A cada novo desafio ou parte do código, um arquivo CSS correspondente foi criad
 ## Visualizar o Projeto
 Você pode ver o projeto OpitumusTech em ação através do link abaixo:
 
-[**Visualizar Projeto no Vercel**](https://opitumustech.vercel.app/)
+[**Visualizar Projeto no Vercel**](https://opitumus-tech.vercel.app/)
