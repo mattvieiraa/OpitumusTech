@@ -1,0 +1,34 @@
+.vagas__bloco {
+    margin: 0 16rem;
+    padding: 2rem 0;
+}
+
+.vagas__titulo {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: var(--destaque);
+    margin-bottom: 2rem;
+}
+
+.vaga__bloco-info {
+    gap: 1.5rem;
+    padding: 1.5rem;
+    border-radius: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--cinza3);
+    margin-bottom: 1.5rem;
+}
+
+.vagas__subtitulo {
+    font-size: 1.125rem;
+    font-weight: 500;
+    color: var(--destaque);
+    margin-bottom: 2rem;
+}
+
+.vaga__tipo {
+    display: flex;
+    gap: 1.5rem;
+    font-weight: 500;
+}

@@ -1,0 +1,31 @@
+.metricas {
+    display: flex;
+    margin: 0 0 16rem 0;
+    padding: 0 2rem;
+    gap: 4rem;
+}
+
+.metricas__bloco {
+    display: flex;
+    flex-direction: column;
+    width: 17.5rem;
+    gap: 1.25rem;
+}
+
+.metricas__titulo {
+    font-size: 3.75rem;
+    font-weight: 600;
+    color: var(--vermelho);
+    letter-spacing: -2%;
+}
+
+.metricas__subtitulo {
+    font-size: 1.125rem;
+    font-weight: 500;
+    color: var(--destaque);
+}
+
+.metricas__texto {
+    font-weight: 400;
+    width: 17.rem;
+}

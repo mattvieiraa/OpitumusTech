@@ -1,0 +1,22 @@
+.depoimentos {
+    margin: 0 5rem 6rem 5rem;
+    text-align: center;
+    background: var(--vermelho-claro2);
+    padding: 4rem;
+}
+
+.depoimentos__subtitulo {
+    text-align: center;
+    color: var(--vermelho);
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.depoimentos__titulo {
+    font-size: 2.25rem;
+    font-weight: 500;
+    color: var(--destaque);
+    letter-spacing: -2%;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,27 @@
+@import url("./styles/reset.css");
+@import url("./styles/navbar.css");
+@import url("./styles/cabecalho.css");
+@import url("./styles/metricas.css");
+@import url("./styles/talentos.css");
+@import url("./styles/vagas.css");
+@import url("./styles/depoimentos.css");
+
+:root{
+    --font-princial: "Inter", sans-serif;
+    --cinza1: #3a404e;
+    --cinza2: #667085;
+    --cinza3: #EAECF0;
+    --branco: #FFFFFF;
+    --vermelho: #8E2424;
+    --vermelho-claro: rgba(142, 36, 36, 0.05);
+    --vermelho-claro2: rgba(195, 25, 25, 0.03);
+    --destaque: #101828;
+}
+
+body {
+    font-family: var(--font-princial);
+    font-size: 1rem;
+    color: var(--cinza2);
+    padding: 1rem;
+    margin: 0 5rem;;
+}

@@ -1,0 +1,36 @@
+.talentos__container-principal {
+    margin: 0 2rem;
+}
+
+.talentos__bloco-cabecalho {
+    text-align: center;
+}
+
+.talentos__aviso {
+    display: inline-block;
+    color: var(--vermelho);
+    background: var(--vermelho-claro);
+    font-size: 0.875rem;
+    border-radius: 16px;
+    padding: 0.25rem 0.75rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.talentos__titulo {
+    color: var(--destaque);
+    font-size: 2.25rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.talentos__subtitulo {
+    font-size: 1.25rem;
+    margin-bottom: 4rem;
+}
+
+.talentos__imagem {
+    width: 100%;
+    height: auto;
+    margin-bottom: 4rem;
+}
