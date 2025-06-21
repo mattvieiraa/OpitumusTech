@@ -1,8 +1,12 @@
 .depoimentos {
-    margin: 0 5rem 6rem 5rem;
+    display: flex;
+    flex-direction: column;
     text-align: center;
+    align-items: center;
     background: var(--vermelho-claro2);
     padding: 4rem;
+    gap: 2rem;
+    border-radius: 16px;
 }
 
 .depoimentos__subtitulo {
@@ -10,7 +14,6 @@
     color: var(--vermelho);
     font-size: 0.875rem;
     font-weight: 600;
-    margin-bottom: 1rem;
 }
 
 .depoimentos__titulo {
@@ -18,5 +21,26 @@
     font-weight: 500;
     color: var(--destaque);
     letter-spacing: -2%;
-    margin-bottom: 2rem;
+}
+
+.depoimentos__imagem {
+    width: 3.5rem;
+}
+
+.depoimentos__texto {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.depoimentos__nome {
+    font-weight: 500;
+    color: var(--destaque);
+    line-height: 1.5rem;
+}
+
+.depoimentos__cargo {
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.25rem; 
 }
